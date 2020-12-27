@@ -1,6 +1,9 @@
 # Task-Manager
 Manage your daily tasks easily
 
+### Motivation
+I created this application to boost my own productivty. Now you can increase your productivity by using this tool.
+
 ### Requirements
 * Python
 * Tkinter
